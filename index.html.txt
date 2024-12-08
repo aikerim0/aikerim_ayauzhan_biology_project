@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Adventures of Ruby and Friends</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #d62828;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+        .content {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .book-info h2 {
+            color: #d62828;
+        }
+        .authors {
+            margin-top: 2rem;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #d62828;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>The Adventures of Ruby and Friends</h1>
+        <p>An Educational Story About Blood Structures</p>
+    </div>
+
+    <div class="content">
+        <div class="book-info">
+            <h2>About the Book</h2>
+            <p>
+                "The Adventures of Ruby and Friends in the Bloodland" is an exciting and educational story
+                about four blood components: Ruby the Red Blood Cell, Plazzie the Plasma, Whitey the White Blood Cell, 
+                and Platey the Platelet. Together, they overcome challenges in the human body, teaching readers about 
+                how the circulatory system works.
+            </p>
+        </div>
+
+        <div class="authors">
+            <h2>About the Authors</h2>
+            <p>
+                This book was created by <strong>Aikerim</strong> and <strong>Ayauzhan</strong>, students of class 8A. 
+                It is dedicated to our beloved teacher <strong>Nurila Omirzak</strong> as a token of our appreciation for her guidance and support.
+            </p>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 by Aikerim & Ayauzhan | Class 8A</p>
+    </footer>
+</body>
+</html>
